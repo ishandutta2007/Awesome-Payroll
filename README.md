@@ -1,6 +1,6 @@
 # Awesome-Payroll
 
-# Top Payroll Tools Ecosystem
+## Top Payroll Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Payroll Processing, Tax Filing, HRIS Integration, Benefits & Global Workforce Payments*  
